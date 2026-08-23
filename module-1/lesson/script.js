@@ -1,5 +1,5 @@
 // আপনার কাঙ্খিত ডাটা বা মেসেজ
-let message = "হ্যালো! এই লেখাটি এখন HTML পেইজে দেখা যাচ্ছে।";
+let message = " এই লেখাটি এখন HTML পেইজে দেখা যাচ্ছে।";
 
 // console.log এ দেখার জন্য
 console.log(message);
