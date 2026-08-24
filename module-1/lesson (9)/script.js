@@ -1,1 +1,8 @@
-console.log("hello world")
+if (true){
+let age;
+}
+function sayAge(){
+    age = 21;
+}
+sayAge();
+console.log(age)
